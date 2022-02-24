@@ -8,8 +8,11 @@ $ cd BadBot-telegram
 $ pip install -r requirements.txt
 ```
 
+### Использование 🎈
+В файл `config.py`, в переменные *TOKEN* и *CHAT_ID* записать соответствующие данные.
+
 ### Пример 👀
-![Example]()
+![Example](https://github.com/Fsoky/BadBot-telegram/blob/master/images/example.png)
 
 ### Присоединяйся к нам
 [![Vkontakte](https://img.shields.io/badge/Vkontakte-black?style=for-the-badge&logo=VK)](https://vk.com/fsoky)
