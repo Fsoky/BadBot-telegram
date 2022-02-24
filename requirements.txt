@@ -1,0 +1,4 @@
+opencv_python==4.5.3.56
+PyAutoGUI==0.9.52
+pyTelegramBotAPI==4.4.0
+requests==2.26.0
