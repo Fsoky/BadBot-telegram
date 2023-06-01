@@ -119,7 +119,7 @@ def send_message_with_answer(message):
 	bot.register_next_step_handler(msg, sms_to_client_with_answer)
 
 
-def send_message_with_answer(message):
+def sms_to_client_with_answer(message):
 	try:
 		answer = pag.prompt(message.text, "~")
 		bot.send_message(message.chat.id, answer)
